@@ -31,11 +31,24 @@ iPhone try-hard jean shorts.
 > This is a quote from someone famous about productivity
 
 {% highlight c linenos=table %}
+
 #include <stdio.h>
 int main(void){
 	printf("Hello World\n");
 	return 0;
 }
+
+{% endhighlight %}
+
+{% highlight c++ linenos=table %}
+
+#include <iostream>
+using namespace std;
+int main(){
+	cout << "Hello World" << endl;
+	return 0;
+}
+
 {% endhighlight %}
 
 
