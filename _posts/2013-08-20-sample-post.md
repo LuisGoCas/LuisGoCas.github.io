@@ -30,7 +30,7 @@ iPhone try-hard jean shorts.
 
 > This is a quote from someone famous about productivity
 
-{% highlight c linenos %}
+{% highlight c linenos=table %}
 #include <stdio.h>
 int main(void){
 	printf("Hello World\n");
